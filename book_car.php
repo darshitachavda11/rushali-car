@@ -54,7 +54,7 @@
 				<form method="post">
 					<table>
 						<tr>
-							<td> Name:</td>
+							<td> Name1:</td>
 							<td><input type="text" name="fname" required></td>
 						</tr>
 						<tr>
